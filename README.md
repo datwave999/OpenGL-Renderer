@@ -13,7 +13,7 @@ A 3D rendering engine built from scratch using C++ and OpenGL 3.3. This project 
 </table>
 
 ## Download
-Download latest build: [Releases Page](https://github.com/datwave999/OpenGL_Tutorial/releases/latest)
+Download latest build: [Releases Page](https://github.com/datwave999/OpenGL-Renderer/releases/latest)
 
 ### How to Run
 1. Download `.zip` file from link above.
