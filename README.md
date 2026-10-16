@@ -1,6 +1,16 @@
-# OpenGL Graphics Engine
+# OpenGL Renderer
 
-A 3D graphics engine built from scratch using C++ and OpenGL 3.3. This project demonstrates core graphics programming concepts, including advanced lighting, shadow mapping, and 3D model loading.
+A 3D rendering engine built from scratch using C++ and OpenGL 3.3. This project demonstrates core graphics programming concepts, including advanced lighting, shadow mapping, and 3D model loading.
+
+## Showcase
+
+<table>
+  <tr>
+    <td width="400">
+      <video src="https://github.com/user-attachments/assets/0db5539a-e14d-4f6c-8c54-48ad295ff3b4" controls></video>
+    </td>
+  </tr>
+</table>
 
 ## Download
 Download latest build: [Releases Page](https://github.com/datwave999/OpenGL_Tutorial/releases/latest)
@@ -8,7 +18,7 @@ Download latest build: [Releases Page](https://github.com/datwave999/OpenGL_Tuto
 ### How to Run
 1. Download `.zip` file from link above.
 2. Extract all contents to new folder.
-3. Run `OpenGL_Udemy.exe`.
+3. Run `OpenGL-Renderer.exe`.
 
 ## Features
 
