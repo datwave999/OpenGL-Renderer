@@ -7,7 +7,7 @@ A 3D rendering engine built from scratch using C++ and OpenGL 3.3. This project 
 <table>
   <tr>
     <td width="400">
-      <video src="https://github.com/user-attachments/assets/0db5539a-e14d-4f6c-8c54-48ad295ff3b4" controls></video>
+      <video src="https://github.com/user-attachments/assets/5456d68d-ed5e-4205-811a-abd7bc9c6ab5" controls></video>
     </td>
   </tr>
 </table>
